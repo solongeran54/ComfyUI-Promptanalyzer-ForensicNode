@@ -199,3 +199,20 @@ Just for checking Token´s, you do not need a complete Pipeline. Just the TokenC
 
 <img width="3144" height="1818" alt="workflow" src="https://github.com/user-attachments/assets/94ef8496-4ea9-4c15-a8ab-1099fc114b3f" />
 
+
+---
+
+
+### Installation (easy)
+
+1. Download ZIP from GitHub
+2. Unzip
+3. Move or copy the folder to `ComfyUI/custom_nodes`
+4. Restart ComfyUI
+5. Enjoy using the Node!
+
+
+Developers can also use `git clone https://github.com/solongeran54/ComfyUI-Promptanalyzer-ForensicNode` inside `custom_nodes/`.
+
+
+
